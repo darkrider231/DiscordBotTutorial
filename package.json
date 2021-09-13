@@ -1,0 +1,23 @@
+{
+  "name": "DiscordBotTutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.9.1"
+  },
+  "dependencies": {
+    "@discordjs/rest": "0.1.0-canary.0",
+    "@replit/database": "^2.0.1",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0"
+  }
+}
